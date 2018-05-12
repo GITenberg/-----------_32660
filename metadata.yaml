@@ -1,0 +1,44 @@
+_repo: '-----------_32660'
+_version: 0.1.0
+alternative_title: Georgics. Greek
+contributor:
+  translator:
+    agent_name: Theotokes, Konstantinos
+    aliases:
+    - Θεοτόκης, Κωνσταντίνος
+    - Théotokis, Constantin
+    - Theotokis, Konstantinos
+    birthdate: 1872
+    deathdate: 1923
+    gutenberg_agent_id: '35971'
+    url: http://www.gutenberg.org/2009/agents/35971
+    wikipedia: http://el.wikipedia.org/wiki/%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%98%CE%B5%CE%BF%CF%84%CF%8C%CE%BA%CE%B7%CF%82
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Virgil
+    aliases:
+    - Vergilius Maro, Publius
+    - Vergil
+    birthdate: -70
+    deathdate: -19
+    gutenberg_agent_id: '129'
+    url: http://www.gutenberg.org/2009/agents/129
+    wikipedia: http://en.wikipedia.org/wiki/Virgil
+description: ''
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32660'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic poetry, Latin -- Translations into Greek'
+- !lcsh 'Agriculture -- Poetry'
+- !lcc 'PA'
+title: Τα Γεωργικά
+url: http://www.gutenberg.org/ebooks/32660
