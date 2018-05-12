@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/129
     wikipedia: http://en.wikipedia.org/wiki/Virgil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32660#-----------
 gutenberg_issued: '2010-06-02'
 gutenberg_type: Text
 identifiers:
